@@ -22,7 +22,7 @@ Make sure you have Python 3.8+ installed. You’ll also need API credentials for
 
 First, create a virtual environment to keep dependencies organized:
 
-```bash
+'''bash
 python -m venv venv
 Activate the environment:
 
