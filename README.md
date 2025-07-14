@@ -35,18 +35,15 @@ venv\Scripts\activate
 ```
 On macOS/Linux:
 ```
-bash
 source venv/bin/activate
 ```
 Then, install the required Python packages:
 ```
-bash
 pip install praw together python-dotenv
 ```
 Configure API Keys
 Create a .env file in the project folder with your API credentials, like this:
 ```
-env
 REDDIT_CLIENT_ID=your_reddit_client_id
 REDDIT_CLIENT_SECRET=your_reddit_client_secret
 REDDIT_USER_AGENT=your_user_agent_string
@@ -65,7 +62,6 @@ When prompted, enter the Reddit username you want to analyze.
 Example
 Here’s what running the script might look like:
 ```
-vbnet
 Enter Reddit username: spez
 Fetching data for u/spez...
 Generating persona from Together.ai...
@@ -81,8 +77,13 @@ If persona generation fails, check your Together.ai API key and quota.
 
 Make sure your internet connection is active.
 
-Author & Contact
+Author & Contact :
+
 Om Kale
+
 Email: ok176471@gmail.com
+
 LinkedIn: linkedin.com/in/om-kale-1663a0276
+
 GitHub: github.com/OmKale
+
