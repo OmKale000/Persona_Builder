@@ -28,21 +28,21 @@ python -m venv venv
 ---
 Activate the environment:
 
-#On Windows:
+# On Windows:
 ```
 bash
 venv\Scripts\activate
 ```
-#On macOS/Linux:
+# On macOS/Linux:
 ```
 source venv/bin/activate
 ```
 ---
-#Then, install the required Python packages:
+# Then, install the required Python packages:
 ```
 pip install praw together python-dotenv
 ```
-##Configure API Keys
+## Configure API Keys
 ---
 Create a .env file in the project folder with your API credentials, like this:
 ```
@@ -62,7 +62,7 @@ python main.py
 ```
 When prompted, enter the Reddit username you want to analyze.
 
-##Example
+## Example
 ---
 Here’s what running the script might look like:
 ```
@@ -74,7 +74,7 @@ Persona saved to spez_persona.txt
 ```
 You’ll find the persona saved in a file named spez_persona.txt.
 
-##Troubleshooting
+## Troubleshooting
 ---
 If data fetching fails, double-check your Reddit API keys in .env.
 
@@ -82,7 +82,7 @@ If persona generation fails, check your Together.ai API key and quota.
 
 Make sure your internet connection is active.
 
-##Author & Contact :
+## Author & Contact :
 ---
 Om Kale
 
