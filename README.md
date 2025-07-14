@@ -28,17 +28,17 @@ python -m venv venv
 ---
 Activate the environment:
 
-# On Windows:
+On Windows:
 ```
 bash
 venv\Scripts\activate
 ```
-# On macOS/Linux:
+On macOS/Linux:
 ```
 source venv/bin/activate
 ```
 ---
-# Then, install the required Python packages:
+Then, install the required Python packages:
 ```
 pip install praw together python-dotenv
 ```
@@ -53,7 +53,7 @@ TOGETHER_API_KEY=your_together_api_key
 ```
 Replace the placeholders with your actual keys.
 
-##How to Run
+## How to Run
 ---
 Run the script with:
 ```
