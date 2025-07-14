@@ -1,0 +1,15 @@
+# Ignore virtual environment folder
+venv/
+
+# Ignore environment variable file containing secrets
+.env
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Optional: IDE/editor specific files (Uncomment if you use any of these)
+# .vscode/
+# .idea/
+# *.swp

@@ -1,0 +1,47 @@
+Name: Lorem
+
+Age: Unknown
+
+Occupation: Unknown
+
+Status: Unknown
+
+Location: Italy
+
+Tier: Power User
+
+Archetype: Personal Finance Enthusiast & Tech-Savvy
+
+Personality:
+Introverted - Lorem rarely initiates conversations and usually responds when engaged.
+Intuitive - Lorem is forward-thinking and prefers discussing future-oriented topics.
+Thinking - Lorem values logic and objectivity in conversations.
+Judging - Lorem is organized and prefers planned, structured situations.
+
+Motivations:
+Convenience: ████████
+Wellness: ████████
+Speed: ███████
+Preferences: ██████
+Comfort: █████
+Dietary Needs: ███
+
+Behavior & Habits:
+- Actively participates in personal finance and technology-related subreddits.
+- Shares experiences and advice related to banking, investing, and financial management.
+- Has a strong interest in retro-tech and cassette futurism.
+- Enjoys discussing science fiction, particularly Star Trek.
+- Often engages in debates and discussions around economic and financial topics.
+
+Frustrations:
+- Lack of financial literacy among people.
+- Incomprehensible economic and financial concepts.
+- Limited understanding of technology and its applications.
+
+Goals & Needs:
+- To spread financial literacy and help others make informed decisions.
+- To learn and stay updated on the latest technology and financial trends.
+- To engage in meaningful discussions and debates on various topics.
+
+Quote:
+"Investing in a single place for decades might not be the best approach; diversification is key."
