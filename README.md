@@ -25,7 +25,7 @@ First, create a virtual environment to keep dependencies organized:
 ```bash
 python -m venv venv
 ```
-
+---
 Activate the environment:
 
 #On Windows:
@@ -37,11 +37,13 @@ venv\Scripts\activate
 ```
 source venv/bin/activate
 ```
+---
 #Then, install the required Python packages:
 ```
 pip install praw together python-dotenv
 ```
 ##Configure API Keys
+---
 Create a .env file in the project folder with your API credentials, like this:
 ```
 REDDIT_CLIENT_ID=your_reddit_client_id
@@ -52,6 +54,7 @@ TOGETHER_API_KEY=your_together_api_key
 Replace the placeholders with your actual keys.
 
 ##How to Run
+---
 Run the script with:
 ```
 bash
@@ -60,6 +63,7 @@ python main.py
 When prompted, enter the Reddit username you want to analyze.
 
 ##Example
+---
 Here’s what running the script might look like:
 ```
 Enter Reddit username: spez
@@ -71,6 +75,7 @@ Persona saved to spez_persona.txt
 You’ll find the persona saved in a file named spez_persona.txt.
 
 ##Troubleshooting
+---
 If data fetching fails, double-check your Reddit API keys in .env.
 
 If persona generation fails, check your Together.ai API key and quota.
@@ -78,7 +83,7 @@ If persona generation fails, check your Together.ai API key and quota.
 Make sure your internet connection is active.
 
 ##Author & Contact :
-
+---
 Om Kale
 
 Email: ok176471@gmail.com
