@@ -88,7 +88,7 @@ Om Kale
 
 Email: ok176471@gmail.com
 
-LinkedIn: linkedin.com/in/om-kale-1663a0276
+LinkedIn: [linkedin.com/in/om-kale-1663a0276](https://linkedin.com/in/om-kale-1663a0276)
 
-GitHub: github.com/OmKale
+GitHub: [github.com/OmKale](https://github.com/OmKale)
 
